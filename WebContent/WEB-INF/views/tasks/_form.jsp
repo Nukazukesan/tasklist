@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<input type="text" />
+
 <br /><br />
 
 <label for="content_tsk">タスク</label><br />
@@ -7,4 +7,4 @@
 <br /><br />
 
 <input type="hidden" name="_token" value="${_token}" />
-<button type="submit">投稿</button>
+<button type="submit">追加</button>
